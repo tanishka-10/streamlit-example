@@ -15,7 +15,6 @@ finding_random_weight <- function(quintile_ticker_names,repetitions,weights){
 
 
 my_function <- function() {
-  install.packages("tidyquant") 
   ### Description:
   # For this exercise, we will create a set of portfolios and compare their performance to an Index of choice. 
   # First, we will read an HTML table from Wikipedia and parse the Tickers to one of our tidyquant functions,
