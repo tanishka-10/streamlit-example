@@ -3,4 +3,5 @@ r-base-dev
 r-cran-ggplot2
 r-cran-cowplot
 r-cran-tidyverse
+r-cran-ipred
 r-cran-tidyquant
