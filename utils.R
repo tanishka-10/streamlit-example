@@ -33,7 +33,7 @@ my_function <- function() {
   # Import necessary libraries
   
   library(tidyverse)
-  library(tidyquant)
+  #library(tidyquant)
   library(rvest)
   
   # Set random seed for reproducibility reasons
