@@ -19,3 +19,4 @@ ggplot2_3.3.5
 tidyverse_1.3.1           
 ROCR_1.0-11 
 htmltab_0.8.2
+rpy2
