@@ -1,8 +1,9 @@
 import altair as alt
 import numpy as np
 import pandas as pd
-import streamlit as st
 import rpy2.robjects as ro
+import streamlit as st
+
 
 r=ro.r
 r.source("./utils.R")
