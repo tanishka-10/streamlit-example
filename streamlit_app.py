@@ -14,9 +14,9 @@ import streamlit as st
 import subprocess
 
 
-r=ro.r
+'''r=ro.r
 r.source("./utils.R")
-p=r.my_function()
+p=r.my_function()'''
 
 
 
