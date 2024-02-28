@@ -4,4 +4,4 @@ r-cran-ggplot2
 r-cran-cowplot
 r-cran-tidyverse
 r-cran-ipred
-tidyquant_1.0.7
+tidyquant
